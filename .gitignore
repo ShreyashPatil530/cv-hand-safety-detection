@@ -1,0 +1,41 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environment
+venv/
+ENV/
+env/
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Jupyter notebooks (if any)
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Build / distribution
+build/
+dist/
+*.egg-info/
+
+# Backup files
+*.bak
+*.tmp
+
+# Output images or debug frames (if used)
+output/
+frames/
+
+# OpenCV temp files
+opencv_cache/
